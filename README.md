@@ -1,1 +1,1 @@
-# Hostel-Manager
+# Hostel Manager
